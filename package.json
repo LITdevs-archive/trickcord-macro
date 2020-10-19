@@ -1,0 +1,24 @@
+{
+  "name": "trickcord-macro",
+  "version": "1.0.0",
+  "description": "A macro for Discord's Trick'cord Treat bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VukkyLtd/trickcord-macro.git"
+  },
+  "author": "Vukky and Hextanium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VukkyLtd/trickcord-macro/issues"
+  },
+  "homepage": "https://github.com/VukkyLtd/trickcord-macro#readme",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "iohook": "^0.6.6",
+    "robotjs": "^0.6.0"
+  }
+}
